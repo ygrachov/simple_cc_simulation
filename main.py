@@ -5,6 +5,7 @@ from datetime import datetime
 
 
 class Globals:
+    """GLORY TO UKRAINE!!!! СЛАВА УКРАЇНІ!!!!"""
     number_of_simulations = 100
     # number of calls to receive if run number set to None
     call_list = 800
